@@ -1,0 +1,28 @@
+_repo: How-to-Become-a-Public-Speaker-Showing-the-best-manner-of-arranging-thought-so-as-to-gain-con__53869
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pittenger, William
+    birthdate: 1840
+    deathdate: 1904
+    gutenberg_agent_id: '2464'
+    url: http://www.gutenberg.org/2009/agents/2464
+description: ''
+gutenberg_issued: '2017-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Oratory'
+- GITenberg
+title: 'How to Become a Public Speaker
+
+  Showing the best manner of arranging thought so as to gain
+
+  conciseness, ease and fluency in speech'
+url: http://www.gutenberg.org/ebooks/53869
